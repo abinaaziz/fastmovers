@@ -1,0 +1,16 @@
+SMAP
+StaffHomeHeader_jsp.java
+JSP
+*S JSP
+*F
++ 0 StaffHomeHeader.jsp
+Staff/StaffHomeHeader.jsp
++ 1 MyStyles.jsp
+Staff/../TemplateStyleFiles/MyStyles.jsp
+*L
+1,3:50
+3:52,9
+4,3:61
+1#1,231:63
+6#0,80:294
+*E
